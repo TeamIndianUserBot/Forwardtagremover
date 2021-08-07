@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "Join"
+          find: "infotechbro"
 
-          replace: "Message"
+          replace: "TeamIndianUserBot"
 
       - name: Create Pull Request
 
