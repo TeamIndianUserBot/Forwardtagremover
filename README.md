@@ -6,7 +6,7 @@
 
 ## Sample bot
 
-- **Sample bot can be found on telegram as [@ChannelFTRBot](https://t.me/ChannelFTRBot)**
+- **Sample bot can be found on telegram as [@forwardetagremoverbot](https://t.me/forwardetagremoverbot)**
 
 ## Support
  
