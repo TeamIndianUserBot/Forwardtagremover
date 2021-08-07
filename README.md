@@ -10,7 +10,7 @@
 
 ## Support
  
-- **Message [Support Group](https://t.me/BotzCityChat) For Any Help...!**
+- **Message [Owner1](https://t.me/untoldhra) For Any Help...!**
 
 ## Updates
 
