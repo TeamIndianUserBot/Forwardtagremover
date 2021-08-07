@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "infotechbro"
+          find: "BotzCity/ChannelFTR"
 
-          replace: "TeamIndianUserBot"
+          replace: "TeamIndianUserBot/Forwardtagremover"
 
       - name: Create Pull Request
 
