@@ -28,7 +28,7 @@ async def start(lel, message):
 
 @app.on_message(filters.command(["help"]))
 async def help(ha, message):
-    await app.send_message(message.chat.id, """**There is nothing no more..!\nJust add me to your channel give rights to delete message and post messages and whichever forwarded message received I will send again without forward tag.\n\nMade with ❤️ by @BotzCity**""", reply_markup=butt) 
+    await app.send_message(message.chat.id, """**There is nothing no more..!\nJust add me to your channel give rights to delete message and post messages and whichever forwarded message received I will send again without forward tag.\n\nMade with ❤️ by @untoldhra**""", reply_markup=butt) 
 
 @app.on_callback_query()
 async def button(app, update):
@@ -55,5 +55,5 @@ async def copy(sed, message):
 
 
 print("Started bot...! ") 
-print("Join @BotzCity for any help !")
+print("Join @untoldhra for any help !")
 app.run()
