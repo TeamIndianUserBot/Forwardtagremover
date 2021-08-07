@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "@BotzCity"
+          find: "Join"
 
-          replace: "@untoldhra"
+          replace: "Message"
 
       - name: Create Pull Request
 
