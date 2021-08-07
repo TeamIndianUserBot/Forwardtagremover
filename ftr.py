@@ -55,5 +55,5 @@ async def copy(sed, message):
 
 
 print("Started bot...! ") 
-print("Join @untoldhra for any help !")
+print("Message @untoldhra for any help !")
 app.run()

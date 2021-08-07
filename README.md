@@ -10,7 +10,7 @@
 
 ## Support
  
-- **Join [Support Group](https://t.me/BotzCityChat) For Any Help...!**
+- **Message [Support Group](https://t.me/BotzCityChat) For Any Help...!**
 
 ## Updates
 
