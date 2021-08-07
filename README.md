@@ -12,12 +12,12 @@
  
 - **Message [Owner1](https://t.me/untoldhra) For Any Help...!**
 
-## Updates
 
-- **To get lastest updates on 🔛 New Bot join [this channel](t.me/BotzCity)**
 
-## Credits
 
-- **[Me](https://t.me/Alain_xD)**
-- **[InukaAsith](https://t.me/InukaAsith)** 
-- **[Pyrogram](https://docs.pyrogram.org)**
+
+
+
+
+
+
