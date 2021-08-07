@@ -1,9 +1,9 @@
 # Channel Forward Tag Remover - Channel management bot
 # Copyright (C) 2021 @Alain_xD
 #
-# This file is a part of < https://github.com/BotzCity/ChannelFTR/ >
+# This file is a part of < https://github.com/TeamIndianUserBot/Forwardtagremover/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/BotzCity/ChannelFTR/blob/main/LICENSE/>.
+# <https://www.github.com/TeamIndianUserBot/Forwardtagremover/blob/main/LICENSE/>.
 
 import re, os, random, asyncio, html
 os.system("pip install pyrogram")
@@ -19,7 +19,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 but = InlineKeyboardMarkup([[InlineKeyboardButton("Help 🤔", callback_data="Help"), InlineKeyboardButton("Close 🔐", callback_data="close")],[InlineKeyboardButton("Updates ⬆", url="t.me/BotzCity"), InlineKeyboardButton("Developer 💕", url="t.me/Alain_xD")]])
-butt = InlineKeyboardMarkup([[InlineKeyboardButton("Home 🏠", callback_data="home"), InlineKeyboardButton("Updates ⬆", url="t.me/BotzCity")], [InlineKeyboardButton("Repo 👉", url="GitHub.com/BotzCity/ChannelFTR"), InlineKeyboardButton("Close 🔐", callback_data="close")]])
+butt = InlineKeyboardMarkup([[InlineKeyboardButton("Home 🏠", callback_data="home"), InlineKeyboardButton("Updates ⬆", url="t.me/BotzCity")], [InlineKeyboardButton("Repo 👉", url="GitHub.com/TeamIndianUserBot/Forwardtagremover"), InlineKeyboardButton("Close 🔐", callback_data="close")]])
 
 
 @app.on_message(filters.command(["start"]))
